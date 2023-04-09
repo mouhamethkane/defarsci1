@@ -1,0 +1,43 @@
+#gride{
+    display: grid;
+}
+
+#gride div{
+    text-align: center;
+    padding: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    border-color: 1px solid black;
+}
+
+.un{
+    background-color: #f30;
+}
+
+.deux{
+    background-color: #f90;
+}
+
+.trois{
+    background-color: #f30;
+}
+
+.quatre{
+    background-color: #f90;
+}
+
+.cinq{
+    background-color: #f40;
+}
+
+.six{
+    background-color: #f90;
+}
+
+.sept{
+    background-color: #f20;
+}
+
+.huit{
+    background-color: #f90;
+}
